@@ -1,7 +1,7 @@
-# This project basically teates you how build or push a project from Github repo to Dockerhub
+# This project basically teaches you how to build or push a project from Github repo to Dockerhub
 
 ---
-# Docker image will be build in docker registery once this project is pushed to our docker repo
+# Docker image will be built in docker registery once this project is pushed to our docker repo
 
 
 ---
