@@ -29,7 +29,7 @@ jobs:
       run: ./gradlew build
 
     - uses: mr-smithers-excellent/docker-build-push@v5
-      name: Build and Push Docker Image
+      name: Build & Push Docker Image
       with:
         image: jmugu/docker-pipeline
         tags: v1, latest
